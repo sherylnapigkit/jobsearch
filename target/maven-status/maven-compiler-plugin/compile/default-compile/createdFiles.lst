@@ -1,0 +1,14 @@
+core/vo/Company.class
+core/vo/JobSearchResult.class
+web/controller/JobSearchController.class
+web/service/JobSearchService.class
+core/service/JobService.class
+web/dto/JobRequestDTO.class
+core/util/PropertyUtil.class
+web/dto/JobDTO.class
+core/vo/Job.class
+core/vo/Generic.class
+web/dto/JobResultDTO.class
+core/vo/FilterRequest.class
+core/vo/Filter.class
+core/util/Constants.class

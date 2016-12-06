@@ -1,0 +1,14 @@
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/web/dto/JobRequestDTO.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/vo/FilterRequest.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/vo/Job.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/vo/Company.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/vo/Generic.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/web/service/JobSearchService.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/util/PropertyUtil.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/util/Constants.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/web/dto/JobResultDTO.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/web/controller/JobSearchController.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/service/JobService.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/vo/JobSearchResult.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/web/dto/JobDTO.java
+/Users/sheryl/Documents/sts-workspace/jobsearch/src/main/java/core/vo/Filter.java
